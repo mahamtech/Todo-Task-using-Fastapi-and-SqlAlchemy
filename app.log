@@ -1,0 +1,113 @@
+2026-02-14 22:00:42,790 | INFO | Tables created successfully 
+2026-02-14 22:01:02,480 | INFO | Checking if user already exists 
+2026-02-14 22:01:02,490 | WARNING | password_value:string 
+2026-02-14 22:01:02,490 | WARNING | password_len:6 
+2026-02-14 22:01:02,514 | WARNING | (trapped) error reading bcrypt version 
+Traceback (most recent call last):
+  File "D:\python\self\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-14 22:16:58,369 | INFO | Tables created successfully 
+2026-02-14 22:17:45,530 | INFO | Checking if user already exists 
+2026-02-14 22:17:45,542 | WARNING | password_value:123 
+2026-02-14 22:17:45,546 | WARNING | password_len:3 
+2026-02-14 22:17:45,550 | WARNING | (trapped) error reading bcrypt version 
+Traceback (most recent call last):
+  File "D:\python\self\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-14 22:21:46,997 | INFO | Tables created successfully 
+2026-02-14 22:22:12,413 | INFO | Checking if user already exists 
+2026-02-14 22:22:12,426 | WARNING | password_value:string 
+2026-02-14 22:22:12,427 | WARNING | password_len:6 
+2026-02-14 22:22:12,429 | WARNING | (trapped) error reading bcrypt version 
+Traceback (most recent call last):
+  File "D:\python\self\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-02-14 22:29:31,840 | INFO | Tables created successfully 
+2026-02-14 22:29:57,178 | INFO | Checking if user already exists 
+2026-02-14 22:29:57,192 | WARNING | password_value:string 
+2026-02-14 22:29:57,192 | WARNING | password_len:6 
+2026-02-14 22:29:57,308 | WARNING | hased password_value:$argon2id$v=19$m=65536,t=3,p=4$FFzEnkqG0FPqmq4dJbIw0w$JL/XkgiGCSdEHcnXQuboJUdKe0WIrZZRCJRpQyPcPCM 
+2026-02-14 22:29:57,308 | INFO | Creating new user object 
+2026-02-14 22:29:57,308 | INFO | Saving user to database 
+2026-02-14 22:31:04,867 | INFO | Checking if user already exists 
+2026-02-14 22:31:04,869 | WARNING | password_value:123 
+2026-02-14 22:31:04,869 | WARNING | password_len:3 
+2026-02-14 22:31:04,995 | WARNING | hased password_value:$argon2id$v=19$m=65536,t=3,p=4$1c6vL2eJchauprdiw/3dSg$wsEhWCBxH6yY5HfkbXqoVbGcpBeu7dl8O2e8ZMvq8Yw 
+2026-02-14 22:31:04,995 | INFO | Creating new user object 
+2026-02-14 22:31:04,995 | INFO | Saving user to database 
+2026-02-14 22:47:42,178 | INFO | Tables created successfully 
+2026-02-15 13:33:45,895 | INFO | Tables created successfully 
+2026-02-15 13:37:36,681 | INFO | Tables created successfully 
+2026-02-15 13:37:59,087 | WARNING | User not found 
+2026-02-15 13:43:38,495 | INFO | Tables created successfully 
+2026-02-15 13:44:09,399 | INFO | Checking if user already exists 
+2026-02-15 13:44:09,416 | WARNING | password_value:123 
+2026-02-15 13:44:09,416 | WARNING | password_len:3 
+2026-02-15 13:44:09,594 | WARNING | hased password_value:$argon2id$v=19$m=65536,t=3,p=4$uyELUi2H/56Rtzg/2ePz8w$1Cl+Is1WaoSFO9/3MfNcFap5rwwOS10qkNqmp1D0fao 
+2026-02-15 13:44:09,594 | INFO | Creating new user object 
+2026-02-15 13:44:09,594 | INFO | Saving user to database 
+2026-02-15 13:53:37,402 | INFO | Tables created successfully 
+2026-02-15 13:54:47,023 | INFO | Checking if user already exists 
+2026-02-15 13:54:47,034 | WARNING | password_value:1234 
+2026-02-15 13:54:47,034 | WARNING | password_len:4 
+2026-02-15 13:54:47,125 | WARNING | hased password_value:$argon2id$v=19$m=65536,t=3,p=4$bNojLGJiFlsrISz+MDTikg$aUJ/J6OV5DlkKfnV1uIhfud27WGX4qi2Pu+AJ9R374w 
+2026-02-15 13:54:47,125 | INFO | Creating new user object 
+2026-02-15 13:54:47,125 | INFO | Saving user to database 
+2026-02-15 14:46:18,211 | INFO | User authenticated: maha 
+2026-02-15 14:46:18,808 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTQ3NTc4fQ.3v9C4Tg6eHBYNg1P4VAbWpMOyOIa5eF8u6p3LqeuqIU 
+2026-02-15 15:31:38,081 | INFO | Tables created successfully 
+2026-02-15 15:39:59,987 | INFO | Tables created successfully 
+2026-02-15 15:40:39,977 | INFO | Checking if user already exists 
+2026-02-15 15:40:39,992 | WARNING | password_value:1234 
+2026-02-15 15:40:39,992 | WARNING | password_len:4 
+2026-02-15 15:40:40,078 | WARNING | hased password_value:$argon2id$v=19$m=65536,t=3,p=4$AA3h8XnADGuZERaCGiCnSQ$Y/Y5qhSKD+lYz0heQTyS3nCiakeC0w0B946uaKxAsww 
+2026-02-15 15:40:40,078 | INFO | Creating new user object 
+2026-02-15 15:40:40,078 | INFO | Saving user to database 
+2026-02-15 15:41:01,463 | INFO | User authenticated: maha 
+2026-02-15 15:41:01,586 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUwODYxfQ.NRmWl1yrQu7w0dcOESTdmq33O4-fHHDN3vzb-YDuqzE 
+2026-02-15 15:41:16,849 | INFO | User authenticated: maha 
+2026-02-15 15:41:16,950 | WARNING | invalid password 
+2026-02-15 15:42:07,073 | INFO | User authenticated: maha 
+2026-02-15 15:42:07,200 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUwOTI3fQ.lTjmj6WBT3TOkl_xmRuITxaKuitbfK4Z4LtZWYK50l4 
+2026-02-15 15:49:19,041 | INFO | Tables created successfully 
+2026-02-15 16:07:34,404 | INFO | Tables created successfully 
+2026-02-15 16:08:25,358 | INFO | User authenticated: maha 
+2026-02-15 16:08:25,448 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUyNTA1fQ.prs_e9mlYkKO8455rgAVafvAPSCXfQqY4qazTZxMO1Q 
+2026-02-15 16:13:07,517 | INFO | User authenticated: maha 
+2026-02-15 16:13:07,599 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUyNzg3fQ.ssTEjfdUVem3obYKu15NAdex_NJpTptk0cy0NNKt5hQ 
+2026-02-15 16:18:01,630 | INFO | Tables created successfully 
+2026-02-15 16:18:22,490 | INFO | User authenticated: maha 
+2026-02-15 16:19:42,994 | INFO | Tables created successfully 
+2026-02-15 16:20:05,911 | INFO | User authenticated: maha 
+2026-02-15 16:20:05,998 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUzMjA1fQ.0CZK6RkqEpHm9IFe6PGKQir0_Nk9-ZaeIiHKLCJ2H-8 
+2026-02-15 16:26:34,964 | INFO | Tables created successfully 
+2026-02-15 16:26:51,419 | INFO | User authenticated: maha 
+2026-02-15 16:26:51,527 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUzNjExfQ.QHUlKcIJVFiD8wwhLdgrhLtS052WYxBHPGrswtaFIx4 
+2026-02-15 16:28:08,916 | INFO | User authenticated: maha 
+2026-02-15 16:28:09,007 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTUzNjg5fQ.J0Q9GivbSkIin8ldrEZCK_1VmbmcWwAZOvYQ1CvmdtI 
+2026-02-15 16:28:16,702 | INFO | payload {'sub': '1', 'exp': 1771153689} 
+2026-02-15 16:28:16,702 | INFO | user id gained 1 
+2026-02-15 16:28:16,705 | INFO | user id gained <model.User object at 0x000001EF2C9BF110> 
+2026-02-15 16:28:16,779 | INFO | new task created <model.Todo object at 0x000001EF2C8D7E00> 
+2026-02-15 16:28:44,771 | INFO | payload {'sub': '1', 'exp': 1771153689} 
+2026-02-15 16:28:44,771 | INFO | user id gained 1 
+2026-02-15 16:28:44,772 | INFO | user id gained <model.User object at 0x000001EF2C9BBE10> 
+2026-02-15 16:28:44,773 | INFO | new task created <model.Todo object at 0x000001EF2C9BDA90> 
+2026-02-15 16:28:54,664 | INFO | payload {'sub': '1', 'exp': 1771153689} 
+2026-02-15 16:28:54,665 | INFO | user id gained 1 
+2026-02-15 16:28:54,666 | INFO | user id gained <model.User object at 0x000001EF2C9BB820> 
+2026-02-15 16:29:07,727 | INFO | payload {'sub': '1', 'exp': 1771153689} 
+2026-02-15 16:29:07,727 | INFO | user id gained 1 
+2026-02-15 16:29:07,729 | INFO | user id gained <model.User object at 0x000001EF2CDC8170> 
+2026-02-15 16:29:07,736 | INFO | get task  <model.Todo object at 0x000001EF2C9B9A70> for id : 1 
+2026-02-15 16:53:09,599 | INFO | User authenticated: maha 
+2026-02-15 16:53:09,726 | WARNING | invalid password 
+2026-02-15 16:53:40,299 | INFO | User authenticated: maha 
+2026-02-15 16:53:40,415 | INFO | token cretaed: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzcxMTU1MjIwfQ.Mv9xoSk6JXAroCryK1AwkHcBYq-GAGuKdtqXCXDWybo 
+2026-02-15 16:54:03,386 | WARNING | User not found 
